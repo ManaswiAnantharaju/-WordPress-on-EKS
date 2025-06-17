@@ -55,3 +55,6 @@ kubectl run siege --rm -i --tty \
 
 
 
+### Demo Screenshots
+
+  | ![WordPress 1](images/wordpress-1.png) | ![WordPress 2](images/wordpress-2.png) |
